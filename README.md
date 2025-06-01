@@ -1,4 +1,6 @@
 # 👋 Hi, I’m Xunmouren
+Welcome to my GitHub profile! I thrive on spreading good vibes and building genuine connections, all while chasing breakthroughs in the world of AI and machine learning.
+# About Me 👉
 - 👀 I’m interested in python
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -10,3 +12,5 @@
 xunmouren/xunmouren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Thanks for stopping by! Have a nice day! 😊❤️
