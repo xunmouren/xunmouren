@@ -7,12 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20%F0%9F%9A%80-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Systems-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mission-Open%20Source-4ECDC4?style=for-the-badge" />
-</p>
-
-<p align="center">
   <a href="xmr233168@outlook.com">
     <img src="https://img.shields.io/badge/-Email-6C63FF?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
@@ -43,15 +37,11 @@ class Xunmouren:
     
     def current_mood(self):
         return "🚀 Excited about the future of AI and human-AI collaboration"
-```
 
-## ▎CURRENT MOOD
-
-```C++
-const currentMood = {
-    status: "🚀 Highly motivated",
-    energy: "⚡ 85%",
-    focus: "🎯 AI Skill & Linux",
+    const currentMood = {
+        status: "🚀 Highly motivated",
+        energy: "⚡ 85%",
+        focus: "🎯 AI Skill & Linux",
 };
 ```
 
