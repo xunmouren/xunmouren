@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I thrive on spreading good vibes and building genu
 class Xunmouren:
     def __init__(self):
         self.name = "Xunmouren"
-        self.role = "AI Skill & Linux Development"
+        self.role = "AI Skill & Linux Development & Shell"
         self.location = "🌏 Global Citizen"
         self.mission = "Building intelligent systems that matter"
         
@@ -38,28 +38,11 @@ class Xunmouren:
     def current_mood(self):
         return "🚀 Excited about the future of AI and human-AI collaboration"
 
-    const currentMood = {
-        status: "🚀 Highly motivated",
-        energy: "⚡ 85%",
-        focus: "🎯 AI Skill & Linux",
+const currentMood = {
+    status: "🚀 Highly motivated",
+    energy: "⚡ 85%",
+    focus: "🎯 AI Skill & Linux",
 };
-```
-
-## ▎DAILY ROUTINE
-
-```
-WHERE learner = 'Xunmouren';
-
--- Results:
--- ┌────────────────────┬────────────┬──────────────┬─────────────────────┐
--- │ skill              │ proficiency│ status       │ next_milestone      │
--- ├────────────────────┼────────────┼──────────────┼─────────────────────┤
--- │ AI Agents          │ 00%        │ 🔄 Reviewing │ Multi-agent systems │
--- │ Rust               │ 00%        │ 📖 Learning  │ Async/WebAssembly   │
--- │ C++                │ 50%        │ 🔥 Active    │ Template metaprogram│
--- │ Shell              │ 40%        │ 🔥 Active    │ Template metaprogram│
--- │ Linux              │ 10%        │ ✅ Solid     │ Distributed systems │
--- └────────────────────┴────────────┴──────────────┴─────────────────────┘
 ```
 
 <!---
