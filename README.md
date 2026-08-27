@@ -28,15 +28,10 @@ Welcome to my GitHub profile! I thrive on spreading good vibes and building genu
 class Xunmouren:
     def __init__(self):
         self.name = "Xunmouren"
-        self.role = "AI Skill & Linux Development & Shell"
-        self.location = "🌏 Global Citizen"
+        self.languages = "Python & C++ & Shell"
+        self.tool = "VS Code & VS & Vim"
+        self.role = "AI Skill & Linux Development"
         self.mission = "Building intelligent systems that matter"
-        
-    def say_hi(self):
-        print("👋 Thanks for stopping by! Let's build something amazing together.")
-    
-    def current_mood(self):
-        return "🚀 Excited about the future of AI and human-AI collaboration"
 
 const currentMood = {
     status: "🚀 Highly motivated",
