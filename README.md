@@ -34,11 +34,9 @@ Welcome to my GitHub profile! I thrive on spreading good vibes and building genu
 class Xunmouren:
     def __init__(self):
         self.name = "Xunmouren"
-        self.role = "AI / ML Engineer & Systems Architect"
+        self.role = "AI Skill & Linux Development"
         self.location = "🌏 Global Citizen"
         self.mission = "Building intelligent systems that matter"
-        self.philosophy = "Curiosity → Learning → Creation → Impact"
-        self.open_for = ["Collaboration", "Mentorship", "Innovation"]
         
     def say_hi(self):
         print("👋 Thanks for stopping by! Let's build something amazing together.")
@@ -47,29 +45,13 @@ class Xunmouren:
         return "🚀 Excited about the future of AI and human-AI collaboration"
 ```
 
-## ▎MY PHILOSOPHY
-
-```python
-class Philosophy:
-    def __init__(self):
-        self.beliefs = {
-            "code": "Writing clean, maintainable code is an art form",
-            "learning": "The only constant in tech is change — embrace it",
-            "collaboration": "Great minds don't think alike, they think together",
-            "impact": "Technology should serve humanity, not the other way around"
-        }
-    
-    def daily_mantra(self):
-        return "Build things that matter. Learn things that last."
-```
-
 ## ▎CURRENT MOOD
 
 ```C++
 const currentMood = {
     status: "🚀 Highly motivated",
     energy: "⚡ 85%",
-    focus: "🎯 AI Agents & Linux",
+    focus: "🎯 AI Skill & Linux",
 };
 ```
 
