@@ -27,11 +27,11 @@ Welcome to my GitHub profile! I thrive on spreading good vibes and building genu
 ```python
 class Xunmouren:
     def __init__(self):
-        self.name = "Xunmouren"
+        self.name = "YiXuan Li"
         self.languages = "Python & C++ & Shell"
         self.tool = "VS Code & VS & Vim"
         self.role = "AI Skill & Linux Development"
-        self.mission = "Building intelligent systems that matter"
+        self.mission = "Building intelligent codes that matter"
 
 const currentMood = {
     status: "🚀 Highly motivated",
