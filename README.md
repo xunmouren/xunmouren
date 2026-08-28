@@ -45,6 +45,31 @@ xunmouren/xunmouren is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Thanks for stopping by! Have a nice day! 😊❤️
+<!---
+```markdown
+═══════════════════════════════════════════════════════════
+  ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗
+  ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝
+     ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗
+     ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║
+     ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║
+     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+═══════════════════════════════════════════════════════════
+        ✦  Thanks for stopping by! Have a nice day!  ✦
+═══════════════════════════════════════════════════════════
+```
+--->
+
+<p align="center">
+  <b>
+    <span style="color:#6C63FF;">✦</span> 
+    Thanks for stopping by 
+    <span style="color:#6C63FF;">✦</span>
+  </b>
+  <br>
+  <i>Have a nice day! 😊❤️</i>
+  <br><br>
+  <code>echo "Stay curious. Build the future."</code>
+</p>
 
 ![footer](https://camo.githubusercontent.com/e77bffdc620695ca6432e2b6d4369a686ff2d1c2b7bed63e1aa8283f5cc4a024/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572)
