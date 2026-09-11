@@ -22,7 +22,7 @@
 ## ▎👋 Hi, I’m Xunmouren
 Welcome to my GitHub profile! I thrive on spreading good vibes and building genuine connections, all while chasing breakthroughs in the world of AI and machine learning.
 
-## ▎ABOUT ME
+## ▎🤗 ABOUT ME
 
 ```python
 class Xunmouren:
